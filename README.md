@@ -16,7 +16,8 @@ I'm not just a developer or analyst—I'm a data magician wanna be! With a fusio
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-E1302A?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="Postgre SQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="My SQL" src="https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-49AD3D?style=for-the-badge&logo=mongodb&logoColor=white"/><br><br>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-49AD3D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-Hive-FFF600?style=for-the-badge&logo=apache-hive&logoColor=black"/><br><br>
   <b>BI Tools</b><br>
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-144881?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img alt="Tableau" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br>
