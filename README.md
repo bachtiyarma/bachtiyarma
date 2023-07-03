@@ -2,7 +2,7 @@
 
 Welcome to Data Wizardland! I'm Bachtiyar, a data aficionado on a mission to decode the secrets hidden within numbers. Step into my world of Business Intelligence (BI) and let's explore the stories that data has to tell.
 
-<h2>🧙 Who's Me?</h2>
+<h2>🧙 Who am I?</h2>
 I'm not just a developer or analyst—I'm a data magician wanna be! With a fusion of technical skills and creative thinking, I conjure insights from raw data, turning them into gold for businesses. My passion lies in transforming complex datasets into beautiful visualizations that inspire actionable decisions.
 
 <h2>🚀 Tech Stack</h2>
