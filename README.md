@@ -1,4 +1,4 @@
-<h1><img src="https://cdn140.picsart.com/309351085166211.gif?to=crop&r=480" width="40">Hallo.</h1>
+<h1><img src="https://cdn140.picsart.com/309351085166211.gif" width="40">Hallo.</h1>
 
 Welcome to Data Wizardland! I'm Bachtiyar, a data aficionado on a mission to decode the secrets hidden within numbers. Step into my world of Business Intelligence (BI) and let's explore the stories that data has to tell.
 
