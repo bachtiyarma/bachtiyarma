@@ -1,4 +1,1 @@
-
-![MySkill](https://skillicons.dev/icons?i=python,r,scala,bash&theme=light)<br>
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light)
-
+<img alt="Python" src="https://img.shields.io/badge/-Python-417DAC?style=flat-oval&logo=python&logoColor=white" />
