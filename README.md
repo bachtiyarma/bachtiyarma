@@ -1,3 +1,4 @@
 👋 Hi, I’m @bachtiyarma
-!(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+![MySkill](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+![Database](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light)
 
