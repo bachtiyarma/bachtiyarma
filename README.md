@@ -1,10 +1,11 @@
-<h1><img src="https://im4.ezgif.com/tmp/ezgif-4-9c57dcc267.gif" width="40">Hallo.</h1>
+<h1><img src="https://cdn140.picsart.com/309351085166211.gif?to=crop&r=480" width="40">Hallo.</h1>
 
 Welcome to Data Wizardland! I'm Bachtiyar, a data aficionado on a mission to decode the secrets hidden within numbers. Step into my world of Business Intelligence (BI) and let's explore the stories that data has to tell.
 
-<h2>🧙 Who's Bachtiyar?</h2>
-I'm not just a developer or analyst—I'm a data magician wanna be!. With a fusion of technical skills and creative thinking, I conjure insights from raw data, turning them into gold for businesses. My passion lies in transforming complex datasets into beautiful visualizations that inspire actionable decisions.
+<h2>🧙 Who's Me?</h2>
+I'm not just a developer or analyst—I'm a data magician wanna be! With a fusion of technical skills and creative thinking, I conjure insights from raw data, turning them into gold for businesses. My passion lies in transforming complex datasets into beautiful visualizations that inspire actionable decisions.
 
+<h2>🧙Tech Stack</h2>
 <p>
   <b>Programming</b><br>
   <img alt="Python" src="https://img.shields.io/badge/-Python-417DAC?style=for-the-badge&logo=python&logoColor=white"/>   
