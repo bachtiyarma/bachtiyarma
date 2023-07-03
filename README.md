@@ -7,6 +7,7 @@
   https://img.shields.io/badge/-SQL_Server-E1302A?style=flat-oval&logo=microsoft-sql-server&logoColor=white
   <b>BI Tools</b><br>
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-144881?style=flat-oval&logo=tableau&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 
