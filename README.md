@@ -1,4 +1,4 @@
-<h1><img src="https://i.pinimg.com/originals/d7/47/fb/d747fb557f54f3360826e9204a677a00.gif" width="60">Hallo.</h1>
+<h1><img src="https://i.pinimg.com/originals/3b/c4/75/3bc475d3f78b4d37878d66cd25c63e84.gif" width="100">Hallo.</h1>
 <p>
   <b>Programming</b><br>
   <img alt="Python" src="https://img.shields.io/badge/-Python-417DAC?style=for-the-badge&logo=python&logoColor=white"/>   
